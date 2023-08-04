@@ -1,0 +1,17 @@
+.list {
+  margin-top: 12px;
+}
+
+.item + .item {
+  margin-top: 8px;
+}
+
+.title {
+  text-transform: uppercase;
+  color: #5a5a5a;
+}
+
+.text {
+  font-weight: 500;
+  color: #2d2d2d;
+}
